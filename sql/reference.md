@@ -1,0 +1,1 @@
+[중복값을 찾는 방법](https://kimsyoung.tistory.com/entry/SQL%EC%97%90%EC%84%9C-%EC%A4%91%EB%B3%B5%EA%B0%92-%EC%B0%BE%EB%8A%94-%EB%B0%A9%EB%B2%95)
